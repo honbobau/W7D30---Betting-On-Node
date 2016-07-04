@@ -1,6 +1,6 @@
 'use strict';
 const prompt = require('prompt-sync')();
-const colors = require('colors')();
+const colors = require('colors');
 
 let playerCurrentMoney = 100;
 let playerCurrentNum;
